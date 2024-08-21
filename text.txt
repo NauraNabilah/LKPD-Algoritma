@@ -1,0 +1,7 @@
+Seorang penjual buku pelajar smk berusaha menarik pembeli dengan ketentuan sbb:
+- jika jumlah buku yang dibeli lebih kecil atau sama dengan 100 eksemplar, maka tidak ada diskon,
+- jika jumlah buku yang dibeli lebih besar dari 100 dan kurang dari atau sama dengan 200 eksemplar maka untuk 100 eksemplar yang pertama dapat diskon 5% sedangkan sisanya mendapat diskon 15%
+- jika jumlah buku ynag dibeli lebih besar dari 200 eksemplar maka 100 eksemplar pertama diskon 7% 100 eksemplar kedua diskon 17% dan sisanya diskon 27%
+
+- jika harga satu eksemplar buku Rp. 5000, buatlah program untuk menentukan Harga total yang Harga dibayar dengan inputan berupa jumlah buku yang di beli
+1 buku = 10 lembar
